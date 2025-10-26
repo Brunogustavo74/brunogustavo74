@@ -28,6 +28,20 @@
 
 <img src="https://raw.githubusercontent.com/Brunogustavo74/Brunogustavo74/output/snake.svg" alt="Snake animation" />
 
+
+
 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunogustavo74/brunogustavo74/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brunogustavo74/brunogustavo74/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/brunogustavo74/brunogustavo74/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=brunogustavo74.brunogustavo74&"  />
+</div>
 
 
